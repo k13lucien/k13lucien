@@ -23,4 +23,18 @@ I am a **Full-Stack Developer** and **Computer Science Student** based in Burkin
 
 ### GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=k13lucien&show_icons=true&theme=tokyonight)
+<div align="center">
+
+
+
+<!-- Stats -->
+
+<img height="180em" src="https://streak-stats.demolab.com?user=k13lucien&theme=algolia&hide_border=true" />
+
+</div>
+
+---
+
+### Highlighted
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k13lucien&repo=maskme)](https://github.com/anuraghazra/github-readme-stats)
