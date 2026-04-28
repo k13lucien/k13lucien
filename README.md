@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Lucien KIEMDE 👋
 
-<!--
-**k13lucien/k13lucien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Full-Stack Developer** and **Computer Science Student** based in Burkina Faso. I enjoy tackling complex challenges and building scalable applications. My approach to technology is driven by continuous learning and solving real-world problems through daily practice.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucien-kiemde-a93179357)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucienkiemde4@gmail.com)
+
+---
+
+### GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=k13lucien&show_icons=true&theme=tokyonight)
