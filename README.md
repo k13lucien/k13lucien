@@ -36,5 +36,3 @@ I am a **Full-Stack Developer** and **Computer Science Student** based in Burkin
 ---
 
 ### Highlighted
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k13lucien&repo=maskme)](https://github.com/anuraghazra/github-readme-stats)
