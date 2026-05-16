@@ -50,17 +50,18 @@ I am a **Full-Stack Developer** and **CS Student** based in **Burkina Faso**. I 
 ---
 ## `stats`
 
-<div align="center">
-
-<!-- Stats Cards - Grid System -->
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px; width: 100%;">
-  <img style="width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k13lucien&theme=dark&utcOffset=1" alt="Productive Time" />
+<table align="center" width="100%">
+<tr>
+<td align="center" width="50%">
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k13lucien&theme=dark&utcOffset=1" />
+</td>
+<td align="center" width="50%">
   <a href="https://stats.hyo.dev/stats/k13lucien">
-    <img style="width: 100%;" src="https://stats.hyo.dev/api/github-stats-advanced?login=k13lucien" alt="Advanced GitHub Stats" />
+    <img width="100%" src="https://stats.hyo.dev/api/github-stats-advanced?login=k13lucien" />
   </a>
-</div>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 ## `highlighted`
