@@ -40,6 +40,7 @@ I am a **Full-Stack Developer** and **CS Student** based in **Burkina Faso**. I 
 ![Kubernetes](https://img.shields.io/badge/Devops_with_Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Full Stack JS](https://img.shields.io/badge/Full_Stack_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_REST_API-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Google Project Management](https://img.shields.io/badge/Google_Project_Management-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </p>
 
