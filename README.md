@@ -51,18 +51,11 @@ I am a **Full-Stack Developer** and **CS Student** based in **Burkina Faso**. I 
 ---
 ## `stats`
 
-<table align="center" width="100%">
-<tr>
-<td align="center" width="50%">
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k13lucien&theme=dark&utcOffset=1" />
-</td>
-<td align="center" width="50%">
-  <a href="https://stats.hyo.dev/stats/k13lucien">
-    <img width="100%" src="https://stats.hyo.dev/api/github-stats-advanced?login=k13lucien" />
-  </a>
-</td>
-</tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/k13lucien/k13lucien/main/profile-3d-contrib/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/k13lucien/k13lucien/main/profile-3d-contrib/profile-green.svg" />
+  <img src="https://raw.githubusercontent.com/k13lucien/k13lucien/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D contribution graph" />
+</picture>
 
 ---
 ## `highlighted`
